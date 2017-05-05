@@ -2,11 +2,13 @@
 
 ## Общее
 
-* [Введение](README.md)
+*     [Введение](README.md)
 
 ## Исходные файлы
 
-* [Общая информация](obschaya-informatsiya.md)
-* [Именование файлов](imenovanie-failov.md)
-* [Организация файлов](organizatsiya-failov.md)
+*     [Общая информация](Source Files/source-files.md)
+*     [Именование файлов](Source Files/source-file-naming.md)
+*     [Организация файлов](Source Files/source-file-organisation.md)
+
+
 
