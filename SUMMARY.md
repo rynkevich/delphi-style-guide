@@ -7,4 +7,5 @@
 ## Исходные файлы
 
 * [Общая информация](obschaya-informatsiya.md)
+* [Именование файлов](imenovanie-failov.md)
 
