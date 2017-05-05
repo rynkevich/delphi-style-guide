@@ -55,11 +55,11 @@ uses
 
 ```Pascal
 implementation
-    
+
 uses 
   Consts, SysUtils, ActnList, 
   ImgList;
-    
+
 {$R BUTTONS.RES}
 ```
 
