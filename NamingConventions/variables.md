@@ -9,7 +9,7 @@
 ```Pascal
 // ПРАВИЛЬНЫЕ идентификаторы переменных:
   specifiedArray
-  MySinglyLinkedList.Size
+  MySinglyLinkedList.Size (Size - свойство MySinglyLinkedList)
   matrixSize
 
 // НЕПРАВИЛЬНЫЕ идентификаторы переменных:

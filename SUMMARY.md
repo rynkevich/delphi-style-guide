@@ -19,4 +19,5 @@
 * [1.0 Общая информация](NamingConventions/naming-conventions.md)
 * [1.1 Переменные](NamingConventions/variables.md)
 * [1.2 Константы](NamingConventions/constants.md)
+* [1.3 Функции, процедуры, методы](NamingConventions/functions-procedures-methods.md)
 
