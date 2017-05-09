@@ -22,4 +22,5 @@
 * [1.3 Объявленные типы, классы](NamingConventions/declared-types-classes.md)
 * [1.4 Функции, процедуры, методы](NamingConventions/functions-procedures-methods.md)
 * [1.5 Поля класса](NamingConventions/class-fields.md)
+* [1.6 Предопределенные типы](NamingConventions/16-predopredelennie-tipi-zarezervirovannie-slova.md)
 
