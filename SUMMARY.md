@@ -14,3 +14,7 @@
 * [1.2.3 Объявление подключаемых файлов](SourceFiles/source-file-organisation-uses.md)
 * [1.2.4 Объявление классов и интерфейсов](SourceFiles/source-file-organisation-classes-and-interfaces.md)
 
+## 2. Соглашения о наименовании
+
+* [1.0 Общая информация](10-obschaya-informatsiya.md)
+
