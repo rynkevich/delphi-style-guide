@@ -8,8 +8,8 @@
 
 ```Pascal
 // ПРАВИЛЬНЫЕ идентификаторы переменных:
-  specifiedArray,
-  MySinglyLinkedList.Size,
+  specifiedArray
+  MySinglyLinkedList.Size
   matrixSize
 
 // НЕПРАВИЛЬНЫЕ идентификаторы переменных:

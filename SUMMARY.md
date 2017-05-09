@@ -18,4 +18,5 @@
 
 * [1.0 Общая информация](NamingConventions/naming-conventions.md)
 * [1.1 Переменные](NamingConventions/variables.md)
+* [1.2 Константы](12-konstanti.md)
 
