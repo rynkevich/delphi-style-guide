@@ -16,5 +16,6 @@
 
 ## 2. Соглашения о наименовании
 
-* [1.0 Общая информация](10-obschaya-informatsiya.md)
+* [1.0 Общая информация](NamingConventions/naming-conventions.md)
+* [1.1 Переменные](NamingConventions/variables.md)
 
