@@ -12,4 +12,5 @@
 * [1.2.1 Идентификационный комментарий](SourceFiles/source-file-organisation-copyright.md)
 * [1.2.2 Объявление модулей](SourceFiles/source-file-organisation-units.md)
 * [1.2.3 Объявление подключаемых файлов](SourceFiles/source-file-organisation-uses.md)
+* [1.2.4 Объявление классов и интерфейсов](SourceFiles/source-file-organisation-classes-and-interfaces.md)
 
