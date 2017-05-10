@@ -6,11 +6,13 @@
 
 ```Pascal
 // ПРАВИЛЬНЫЕ идентификаторы переменных:
+
   SpecifiedArray
   MySinglyLinkedList
   MatrixSize
 
 // НЕПРАВИЛЬНЫЕ идентификаторы переменных:
+
   matrix_size
   ILOVECAPSSOMUCH
 ```

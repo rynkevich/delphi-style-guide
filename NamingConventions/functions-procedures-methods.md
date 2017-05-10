@@ -13,11 +13,13 @@
 
 ```Pascal
 // ПРАВИЛЬНО:
+
   ShowStatus
   DrawCircle
   AddLayoutComponent
 
 // НЕПРАВИЛЬНО:
+
   MouseButton  // не содержит глагол, не описывает функцию
   drawCircle   // начинается со строчной буквы
   add_layout_component    // содержит подчеркивания

@@ -18,12 +18,14 @@ Delphi - очень "чистый" язык программирования, к
 
 ```Pascal
 // ПРАВИЛЬНО:
+
   function TMyClass.MyFunc(var AValue: Integer);
   MyPointer := @MyRecord;
   MyClass := TMyClass(MyPointer);
   MyInteger := MyIntegerArray[5];
 
 // НЕПРАВИЛЬНО:
+
   function TMyClass.MyFunc( var AValue: Integer ) ;
   MyPointer := @ MyRecord;
   MyClass := TMyClass ( MyPointer ) ;
