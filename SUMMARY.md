@@ -37,3 +37,7 @@
 * [Многострочные комментарии](Comments/block-comments.md)
 * [Однострочные комментарии](Comments/single-line-comments.md)
 
+## Классы и интерфейсы
+
+* [Объявление класса](ClassesAndInterfaces/class-body-organisation.md)
+
