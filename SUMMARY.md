@@ -35,4 +35,5 @@
 
 * [Общая информация](Comments/comments.md)
 * [Многострочные комментарии](Comments/block-comments.md)
+* [Однострочные комментарии](Comments/single-line-comments.md)
 
