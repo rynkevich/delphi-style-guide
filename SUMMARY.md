@@ -40,4 +40,5 @@
 ## Классы и интерфейсы
 
 * [Объявление класса](ClassesAndInterfaces/class-body-organisation.md)
+* [Области видимости](ClassesAndInterfaces/access-levels.md)
 
