@@ -31,3 +31,7 @@
 * [Отступы](WhiteSpaceUsage/indentation.md)
 * [Перенос строк](WhiteSpaceUsage/continuation-lines.md)
 
+## Комментарии
+
+* [Общая информация](kommentarii/obschaya-informatsiya.md)
+
