@@ -28,4 +28,5 @@
 
 * [Логические интервалы](WhiteSpaceUsage/blank-lines.md)
 * [Пробелы](WhiteSpaceUsage/blank-spaces.md)
+* [Отступы](WhiteSpaceUsage/otstupi.md)
 

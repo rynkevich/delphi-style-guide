@@ -22,8 +22,12 @@ Delphi - очень "чистый" язык программирования, к
   MyPointer := @MyRecord;
   MyClass := TMyClass(MyPointer);
   MyInteger := MyIntegerArray[5];
-  
+
 // НЕПРАВИЛЬНО:
+  function TMyClass.MyFunc( var Value: Integer ) ;
+  MyPointer := @ MyRecord;
+  MyClass := TMyClass ( MyPointer ) ;
+  MyInteger := MyIntegerArray [ 5 ] ;
 ```
 
 
