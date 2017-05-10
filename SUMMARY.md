@@ -41,4 +41,5 @@
 
 * [Объявление класса](ClassesAndInterfaces/class-body-organisation.md)
 * [Области видимости](ClassesAndInterfaces/access-levels.md)
+* [Конструкторы и деструкторы](ClassesAndInterfaces/constructors-and-destructors.md)
 
