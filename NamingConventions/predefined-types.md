@@ -10,12 +10,12 @@
 
 ```Pascal
 // ПРАВИЛЬНО:
-  myFirstVariable: Cardinal;
-  mySecondVariable: array of Real;
+  MyFirstVariable: Cardinal;
+  MySecondVariable: array of Real;
 
 // НЕПРАВИЛЬНО:
-  myFirstVariable: String;
-  mySecondVariable: word;
+  MyFirstVariable: String;
+  MySecondVariable: word;
 ```
 
 > _**Примечание**_:  

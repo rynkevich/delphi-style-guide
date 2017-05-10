@@ -26,5 +26,6 @@
 
 ## Пробелы и межстрочные расстояния
 
-* [Логические интервалы](probeli-i-mezhstrochnie-rasstoyaniya/logicheskie-intervali.md)
+* [Логические интервалы](WhiteSpaceUsage/blank-lines.md)
+* [Пробелы](WhiteSpaceUsage/blank-spaces.md)
 
