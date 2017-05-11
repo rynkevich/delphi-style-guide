@@ -19,9 +19,7 @@
 
 2. [Object Pascal Style Guide](https://edn.embarcadero.com/article/10280);
 
-3. [RAD Studio Product Documentation - Embarcadero Technologies](http://docs.embarcadero.com/products/rad_studio/);
-
-4. [Wikipedia](https://www.wikipedia.org/).
+3. [RAD Studio Product Documentation - Embarcadero Technologies](http://docs.embarcadero.com/products/rad_studio/).
 
 ### Для обратной связи
 
