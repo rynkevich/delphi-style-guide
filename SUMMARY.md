@@ -9,10 +9,10 @@
 * [Общая информация](SourceFiles/source-files.md)
 * [Именование файлов](SourceFiles/source-file-naming.md)
 * [Организация файлов](SourceFiles/FileOrganisation/source-file-organisation.md)
-* [Идентификационный комментарий](SourceFiles/FileOrganisation/copyright.md)
-* [Объявление модулей](SourceFiles/FileOrganisation/units.md)
-* [Объявление подключаемых файлов](SourceFiles/FileOrganisation/uses.md)
-* [Объявление классов и интерфейсов](SourceFiles/FileOrganisation/classes-and-interfaces.md)
+  * [Идентификационный комментарий](SourceFiles/FileOrganisation/copyright.md)
+  * [Объявление модулей](SourceFiles/FileOrganisation/units.md)
+  * [Объявление подключаемых файлов](SourceFiles/FileOrganisation/uses.md)
+  * [Объявление классов и интерфейсов](SourceFiles/FileOrganisation/classes-and-interfaces.md)
 
 ## Соглашения о наименовании
 
@@ -41,8 +41,8 @@
 ## Классы и интерфейсы
 
 * [Объявление класса](ClassesAndInterfaces/ClassBodyOrganisation/class-body-organisation.md)
-* [Области видимости](ClassesAndInterfaces/ClassBodyOrganisation/access-levels.md)
-* [Конструкторы и деструкторы](ClassesAndInterfaces/ClassBodyOrganisation/constructors-and-destructors.md)
+  * [Области видимости](ClassesAndInterfaces/ClassBodyOrganisation/access-levels.md)
+  * [Конструкторы и деструкторы](ClassesAndInterfaces/ClassBodyOrganisation/constructors-and-destructors.md)
 * [Объявление методов](ClassesAndInterfaces/method-declarations.md)
 * [Интерфейсы](ClassesAndInterfaces/interfaces.md)
 
@@ -57,4 +57,6 @@
 * [Циклы for, while, repeat until](Statements/loop-statements.md)
 * [Конструкция case](Statements/case-statement.md)
 * [Конструкция try](Statements/try-statement.md)
+
+
 
