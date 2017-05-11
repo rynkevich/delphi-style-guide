@@ -12,7 +12,6 @@
   * [Идентификационный комментарий](SourceFiles/FileOrganisation/copyright.md)
   * [Объявление модулей](SourceFiles/FileOrganisation/units.md)
   * [Объявление подключаемых файлов](SourceFiles/FileOrganisation/uses.md)
-  * [Объявление классов и интерфейсов](SourceFiles/FileOrganisation/classes-and-interfaces.md)
 
 ## Соглашения о наименовании
 
@@ -57,6 +56,4 @@
 * [Циклы for, while, repeat until](Statements/loop-statements.md)
 * [Конструкция case](Statements/case-statement.md)
 * [Конструкция try](Statements/try-statement.md)
-
-
 
