@@ -55,5 +55,5 @@
 * [Конструкция if-then-else](Statements/if-statement.md)
 * [Циклы for, while, repeat until](Statements/loop-statements.md)
 * [Конструкция case](Statements/case-statement.md)
-* [Конструкция try](Statements/konstruktsiya-try.md)
+* [Конструкция try](Statements/try-statement.md)
 
