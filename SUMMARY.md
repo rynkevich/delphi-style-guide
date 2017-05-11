@@ -45,3 +45,11 @@
 * [Объявление методов](ClassesAndInterfaces/method-declarations.md)
 * [Интерфейсы](ClassesAndInterfaces/interfaces.md)
 
+## Выражения и конструкции
+
+* [Общая информация](Statements/statements.md)
+* [Простые выражения](Statements/simple-statements.md)
+* [Сложные выражения](Statements/compound-statements.md)
+* [Операции присваивания и вызовы методов](Statements/assignments-and-method-calls.md)
+* [Объявление переменных](Statements/variables.md)
+
