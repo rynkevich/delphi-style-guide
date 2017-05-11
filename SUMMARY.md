@@ -52,6 +52,7 @@
 * [Сложные выражения](Statements/compound-statements.md)
 * [Операции присваивания и вызовы методов](Statements/assignments-and-method-calls.md)
 * [Объявление переменных](Statements/variables.md)
-* [Конструкция if-then-else](Statements/konstruktsiya-if-then-else.md)
+* [Конструкция if-then-else](Statements/if-statement.md)
 * [Циклы for, while, repeat until](Statements/loop-statements.md)
+* [Конструкция case](Statements/case-statement.md)
 

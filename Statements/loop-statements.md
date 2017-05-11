@@ -60,5 +60,24 @@ while X < J do
   DoSomething;
 ```
 
+Конструкция `repeat until` не требует наличия операторных скобок.  
+Примеры оформления цикла `repeat until`:
+
+```Pascal
+// НЕПРАВИЛЬНО:
+repeat
+begin
+  X := J;
+  J := UpdateValue;
+end;
+until J > 25
+
+// ПРАВИЛЬНО:
+repeat
+  X := J;
+  J := UpdateValue;
+until J > 25;
+```
+
 
 
