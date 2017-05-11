@@ -52,4 +52,5 @@
 * [Сложные выражения](Statements/compound-statements.md)
 * [Операции присваивания и вызовы методов](Statements/assignments-and-method-calls.md)
 * [Объявление переменных](Statements/variables.md)
+* [Конструкция if-then-else](Statements/konstruktsiya-if-then-else.md)
 
