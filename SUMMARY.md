@@ -23,6 +23,7 @@
 * [Функции, процедуры, методы](NamingConventions/functions-procedures-methods.md)
 * [Поля класса](NamingConventions/class-fields.md)
 * [Предопределенные типы](NamingConventions/predefined-types.md)
+* [Экземпляры компонентов](NamingConventions/components.md)
 
 ## Пробелы и межстрочные расстояния
 
