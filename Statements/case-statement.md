@@ -14,7 +14,7 @@ case Control.Align of
 end;
 
 // ПРАВИЛЬНО:
-case x of
+case X of
 
   csStart:
     begin
@@ -28,9 +28,9 @@ case x of
       J := X;
       X := UpdateValue;
     end;
-      
+
 end;
-      
+
 // ПРАВИЛЬНО:
 case ScrollCode of
   SB_LINEUP, SB_LINEDOWN:
