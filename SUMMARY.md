@@ -45,15 +45,14 @@
 * [Объявление методов](ClassesAndInterfaces/method-declarations.md)
 * [Интерфейсы](ClassesAndInterfaces/interfaces.md)
 
-## Выражения и конструкции
+## Операторы и выражения
 
 * [Общая информация](Statements/statements.md)
-* [Простые выражения](Statements/simple-statements.md)
-* [Сложные выражения](Statements/compound-statements.md)
-* [Операции присваивания и вызовы методов](Statements/assignments-and-method-calls.md)
+* [Простые операторы](Statements/simple-statements.md)
+* [Составные операторы](Statements/compound-statements.md)
 * [Объявление переменных](Statements/variables.md)
-* [Конструкция if-then-else](Statements/if-statement.md)
+* [Оператор if-then-else](Statements/if-statement.md)
 * [Циклы for, while, repeat until](Statements/loop-statements.md)
-* [Конструкция case](Statements/case-statement.md)
-* [Конструкция try](Statements/try-statement.md)
+* [Оператор case](Statements/case-statement.md)
+* [Оператор try](Statements/try-statement.md)
 
