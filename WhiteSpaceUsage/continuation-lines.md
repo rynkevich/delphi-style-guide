@@ -13,13 +13,6 @@ function CreateWindowEx(dwExStyle: DWORD;
   dwStyle: DWORD; X, Y, nWidth, nHeight: Integer;
   hWndParent: HWND; hMenu: HMENU; hInstance: HINST; 
   lpParam: Pointer): HWND; stdcall;
-
-// НЕПРАВИЛЬНО:
-if ((X = Y) or (Y = X) or
-  (Z = P) or (F = J)) then
-begin
-  S := J;
-end;
 ```
 
 Нельзя разделять идентификатор параметра и указание его типа. Исключительной ситуацией является перечисление имен переменных, относящихся к одному типу, через запятую. Тогда перенос строки можно выполнить после очередной запятой.
