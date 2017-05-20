@@ -66,6 +66,14 @@ begin
   DoThis;
 end else
   DoSomething;
+  
+// ПРАВИЛЬНО:
+if Condition then
+  DoThis
+else if AnotherCondition then
+  DoThat
+else if YetAnotherCondition then
+  DoSmthElse;
 
 // ПРАВИЛЬНО:
 if Condition then
