@@ -5,10 +5,12 @@
 Объявление интерфейса схоже с объявлением класса:
 
 ```Pascal
-  InterfaceName = interface([Inherited Interface])
+  ISomeIdentifier = interface([Inherited Interface])
     InterfaceBody
   end;
 ```
+
+Идентификатор интерфейса необходимо начинать с заглавной буквы `I` \(_от англ. "Interface"_\).
 
 В объявлении интерфейса нет полей, однако есть могут быть свойства.
 
