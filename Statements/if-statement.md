@@ -66,7 +66,7 @@ begin
   DoThis;
 end else
   DoSomething;
-  
+
 // ПРАВИЛЬНО:
 if Condition then
   DoThis
