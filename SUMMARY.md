@@ -23,6 +23,7 @@
 * [Поля класса](NamingConventions/class-fields.md)
 * [Предопределенные типы](NamingConventions/predefined-types.md)
 * [Экземпляры компонентов](NamingConventions/components.md)
+* [Обобщенные типы](NamingConventions/generics.md)
 
 ## Пробелы и межстрочные расстояния
 
