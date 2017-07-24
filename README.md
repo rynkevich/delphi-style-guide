@@ -19,7 +19,9 @@
 
 2. [Object Pascal Style Guide](https://edn.embarcadero.com/article/10280);
 
-3. [RAD Studio Product Documentation - Embarcadero Technologies](http://docs.embarcadero.com/products/rad_studio/).
+3. [RAD Studio Product Documentation - Embarcadero Technologies](http://docs.embarcadero.com/products/rad_studio/);
+
+4. [Making Wrong Code Look Wrong - Joel On Software](https://www.joelonsoftware.com/2005/05/11/making-wrong-code-look-wrong/).
 
 ### Для обратной связи
 
