@@ -25,7 +25,7 @@
 
 ### Для обратной связи
 
-* _energybender120@gmail.com_,_ _Арсений Рынкевич.
+* _energybender120@gmail.com, _Арсений Рынкевич.
 
 
 
