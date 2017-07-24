@@ -56,5 +56,5 @@
 * [Циклы for, while, repeat until](Statements/loop-statements.md)
 * [Оператор case](Statements/case-statement.md)
 * [Оператор try](Statements/try-statement.md)
-* [Операторы goto, break, continue](Statements/operatori-goto-break-continue.md)
+* [Оператор goto, процедуры Break и Continue](Statements/goto-break-continue.md)
 
