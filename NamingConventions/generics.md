@@ -25,7 +25,7 @@
    end;
 ```
 
-Следующее описание тоже будет являться правильным:
+Следующее описание тоже будет являться правильным, если соблюдено вышеупомянутое условие:
 
 ```Pascal
 // ПРАВИЛЬНО:
@@ -38,11 +38,13 @@ type
 Пример корретных объявлений дженерик-классов:
 
 ```Pascal
- // ПРАВИЛЬНО:
- 
- var
-   StrIntPair: TPair<string, Integer>;
-   SomeList: TLinkedList<Real>;  
+// ПРАВИЛЬНО:
+var
+  StrIntPair: TPair<string, Integer>;
+
+// ПРАВИЛЬНО:
+var
+  SomeList: TLinkedList<Real>;
 ```
 
 
