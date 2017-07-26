@@ -41,7 +41,9 @@ type
 // ПРАВИЛЬНО:
 var
   StrIntPair: TPair<string, Integer>;
+```
 
+```Pascal
 // ПРАВИЛЬНО:
 var
   SomeList: TLinkedList<Real>;
