@@ -13,7 +13,9 @@
 
   MyFirstVariable: Cardinal;
   MySecondVariable: array of Real;
+```
 
+```Pascal
 // НЕПРАВИЛЬНО:
 
   MyFirstVariable: String;
