@@ -27,9 +27,8 @@
 Особый вид представления имеют элементы перенумерованного типа, которые, технически, также являются константами. Для их представления используется [венгерская нотация](https://ru.wikipedia.org/wiki/Венгерская_нотация) \(hungarian notation\):
 
 ```Pascal
-TBitBtnKind = (bkCustom, bkOK, bkCancel, bkHelp, 
-  bkYes, bkNo, bkClose, bkAbort, bkRetry, 
-  bkIgnore, bkAll);
+TBitBtnKind = (bkCustom, bkOK, bkCancel, bkHelp, bkYes, bkNo,
+  bkClose, bkAbort, bkRetry, bkIgnore, bkAll);
 ```
 
 К каждому имени в вышеприведенном случае применяется префикс, позволяющий указать принадлежность константы перенумерованному типу. Префикс `bk` означает `ButtonKind`.
