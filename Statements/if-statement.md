@@ -29,7 +29,9 @@ begin
   DoThis;
   DoThat;
 end;
+```
 
+```Pascal
 // НЕПРАВИЛЬНО:
 if A < B then begin
   DoSomething; 
@@ -51,7 +53,9 @@ end else
 begin
   DoThat;
 end;
+```
 
+```Pascal
 // ПРАВИЛЬНО:
 if Condition then
 begin
@@ -59,14 +63,18 @@ begin
 end
 else
   DoSomething;
+```
 
+```Pascal
 // ПРАВИЛЬНО:
 if Condition then
 begin
   DoThis;
 end else
   DoSomething;
+```
 
+```Pascal
 // ПРАВИЛЬНО:
 if Condition then
   DoThis
@@ -74,7 +82,9 @@ else if AnotherCondition then
   DoThat
 else if YetAnotherCondition then
   DoSmthElse;
+```
 
+```Pascal
 // ПРАВИЛЬНО:
 if Condition then
   DoThis

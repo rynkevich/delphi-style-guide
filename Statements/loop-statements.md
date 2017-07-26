@@ -12,18 +12,24 @@ for I := 0 to 10 do begin
   DoSomething; 
   DoSomethingElse;
 end;
+```
 
+```Pascal
 // НЕПРАВИЛЬНО:
 for I := 0 to 10
 do begin
   DoSomething;
   DoSomethingElse;
 end;
+```
 
+```Pascal
 // ПРАВИЛЬНО:
 for I := 0 to 10 do
   DoSomething;
+```
 
+```Pascal
 // ПРАВИЛЬНО:
 for I := 0 to 10 do
 begin
@@ -40,21 +46,27 @@ while X < J do begin
   DoSomething; 
   DoSomethingElse;
 end;
+```
 
+```Pascal
 // НЕПРАВИЛЬНО:
 while X < J
 do begin
   DoSomething;
   DoSomethingElse;
 end;
+```
 
+```Pascal
 // ПРАВИЛЬНО:
 while X < J do 
 begin
   DoSomething; 
   DoSomethingElse;
 end;
+```
 
+```Pascal
 // ПРАВИЛЬНО:
 while X < J do
   DoSomething;
@@ -71,7 +83,9 @@ begin
   J := UpdateValue;
 end;
 until J > 25
+```
 
+```Pascal
 // ПРАВИЛЬНО:
 repeat
   X := J;

@@ -39,14 +39,18 @@ while (LongExpression1 or LongExpression2) do begin
   // Оператор
   // Еще один оператор;
 end;
+```
 
+```Pascal
 // ПРАВИЛЬНО:
 while (LongExpression1 or LongExpression2) do 
 begin
   // Оператор
   // Еще один оператор;
 end;
+```
 
+```Pascal
 // ПРАВИЛЬНО:
 if (LongExpression1) or 
   (LongExpression2) or 

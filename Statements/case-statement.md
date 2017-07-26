@@ -12,7 +12,9 @@ case Control.Align of
   alLeft, alNone: NewRange := Max(NewRange, Position);
   alRight: Inc(AlignMargin, Control.Width);
 end;
+```
 
+```Pascal
 // ПРАВИЛЬНО:
 case X of
 
@@ -30,7 +32,9 @@ case X of
     end;
 
 end;
+```
 
+```Pascal
 // ПРАВИЛЬНО:
 case ScrollCode of
   SB_LINEUP, SB_LINEDOWN:
