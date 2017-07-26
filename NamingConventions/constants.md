@@ -7,16 +7,16 @@
 ```Pascal
 // ПРАВИЛЬНЫЕ идентификаторы констант:
 
-ConstantMultiplier
-NameOfMyDog
+  ConstantMultiplier
+  NameOfMyDog
 ```
 
 ```Pascal
 // НЕПРАВИЛЬНЫЕ идентификаторы констант:
 
-myAddress
-variables_quantity
-MAX_WORD_SIZE
+  myAddress
+  variables_quantity
+  MAX_WORD_SIZE
 ```
 
 Особый вид представления имеют элементы перенумерованного типа, которые, технически, также являются константами. Для их представления используется [венгерская нотация](https://ru.wikipedia.org/wiki/Венгерская_нотация) \(hungarian notation\):

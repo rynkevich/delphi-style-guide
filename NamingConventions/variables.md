@@ -10,7 +10,9 @@
   SpecifiedArray
   MySinglyLinkedList
   MatrixSize
+```
 
+```Pascal
 // НЕПРАВИЛЬНЫЕ идентификаторы переменных:
 
   matrix_size
