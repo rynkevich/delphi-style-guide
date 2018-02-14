@@ -41,7 +41,7 @@
 ## Классы и интерфейсы
 
 * [Объявление класса](ClassesAndInterfaces/ClassBodyOrganisation/class-body-organisation.md)
-  * [Области видимости](ClassesAndInterfaces/ClassBodyOrganisation/access-levels.md)
+  * [Модификаторы доступа](ClassesAndInterfaces/ClassBodyOrganisation/access-levels.md)
   * [Конструкторы и деструкторы](ClassesAndInterfaces/ClassBodyOrganisation/constructors-and-destructors.md)
 * [Объявление методов](ClassesAndInterfaces/method-declarations.md)
 * [Интерфейсы](ClassesAndInterfaces/interfaces.md)
